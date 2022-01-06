@@ -1,2 +1,9 @@
 # Discord Bot
- This is a Discord Bot
+ 
+Commands: 
+!encode
+!decode
+!ping
+!choose
+!roll
+!help
